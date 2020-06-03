@@ -1,2 +1,0 @@
-# reactapplication
-Created with CodeSandbox

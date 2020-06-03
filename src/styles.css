@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn-danger,
+.btn-primary {
+  width: 100%;
+}
+.jumbotron {
+  margin-top: 100px;
+  width: 500px;
+}
+Navbar {
+  color: white;
+}
+
+@media (max-width: 500px) {
+  .jumbotron {
+    width: 100%;
+  }
+}
