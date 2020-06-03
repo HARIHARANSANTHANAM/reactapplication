@@ -12,7 +12,7 @@
     "@material-ui/icons": "4.9.1",
     "@material-ui/lab": "4.0.0-alpha.55",
     "@material-ui/styles": "4.10.0",
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.5.0",
     "jquery": "3.5.1",
     "react": "16.12.0",
     "react-developer-toolkit": "1.0.0",
